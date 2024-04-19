@@ -1,8 +1,8 @@
 ## [@{GITHUB-USERNAME}](https://github.com/{username})
 
-(Optional) Paragraph introducing yourself.
+(_Optional_) Paragraph introducing yourself.
 
-(Optional) Any contact information: 
+(_Optional_) Any contact information: 
 - Personal Website
 - Socials
 
@@ -12,7 +12,7 @@
 _List the genres of the game projects that you're interest in designing or learning to create._
 
 
-### Game Projects (Optional)
+### Game Projects (_Optional_)
 
 _List your game projects want to share. They can be a work in progress_
 - {itch.io_link}: (brief description)
