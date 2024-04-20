@@ -13,3 +13,7 @@ a profile from the [template](members/_profile_template.md) provided in the repo
 
 [List of members](members/)
 
+- [eastbayeff](members/eastbayeff.md)
+- [Finadoggie](members/Finadoggie.md)
+- [krhkt](members/krhkt.md)
+
