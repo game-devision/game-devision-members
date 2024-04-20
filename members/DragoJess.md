@@ -1,6 +1,6 @@
 ## [@DragoJess](https://github.com/DragoJess)
 
-![Big profile picture](_assets/DragoJess.png)
+![Big profile picture](_assets/Jess.png)
 
 Hi, I'm Jess, a multi disciplinary artist and gamedev. I do programming, art, music, a little bit of 3D modelling, and everything else you would need to make a game
 
