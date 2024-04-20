@@ -6,15 +6,15 @@ Hi I'm Christian and I remember when internet was sold by the minute.
 
 [portfolio link](https://www.lateinlifegames.com)
 
+
 ### Game Design Genres
 
 - RPG
 - Action
 
 
-### Game Projects (_Optional_)
+### Game Projects 
 
-_List your game projects want to share. They can be a work in progress_
 - [Semi-active survivors](https://eastbayeff.itch.io/semi-active-survivors): like vampire survivors only you can push a button to attack 
 
 
