@@ -7,7 +7,8 @@
 
 - Puzzle
 - RPG
-- Race
+- Racing
+- Fighting
 
 ### Favorite Games
 
