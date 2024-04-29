@@ -18,4 +18,4 @@ a profile from the [template](members/_profile_template.md) provided in the repo
 - [Finadoggie](members/Finadoggie.md)
 - [javajon13](members/javajon13.md)
 - [krhkt](members/krhkt.md)
-
+- [LevitatingRobot](members/LevitatingRobot.md)
